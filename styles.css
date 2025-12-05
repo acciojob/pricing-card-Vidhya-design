@@ -1,1 +1,47 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #f4f4f4;
+   display:flex;
+	justify-content:center;
+	padding-top:10px;
+	 font-family: Georgia, serif;
+}
+#background{
+    background-color: rgb(240, 240, 240);
+	padding:20px;
+	width:350px;
+	box-shadow:0 4px 12px 3px rgba(0, 0, 0, 0.2);
+	text-align:center;
+	 border-radius: 8px;
+}
+
+img{
+   
+	border-radius:4px;
+	width:100%;
+	
+	}
+
+h1{
+margin:20px 0 -5px;
+
+ font-size:52px;
+	}
+
+p{
+margin:8px 0;
+font-size:32px;
+}
+
+button{
+   background-color:tomato;
+	    margin-top:20px;
+	padding: 12px 28px;
+	border-radius:12px;
+	font-size:35px;
+    font-weight:bold;
+	color:white;
+	border:none;
+	cursor:pointer;
+}
+
